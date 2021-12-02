@@ -1,42 +1,37 @@
-# Celo Marketplace Dapp
-![](https://github.com/dacadeorg/celo-development-101/blob/main/content/gifs/celo_trailer_02.gif)
+## Welcome to GitHub Pages
 
-## Description
-This is a very simple marketplace dapp where users can:
-* See products hosted on the Celo Blockchain
-* Purchase products with cUSD and pay the owner
-* Add your own products to the dapp
+You can use the [editor on GitHub](https://github.com/rupeshjha00/rupeshjha00.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-## Live Demo
-[Marketplace Dapp](https://dacadeorg.github.io/celo-marketplace-dapp/)
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Usage
+### Markdown
 
-### Requirements
-1. Install the [CeloExtensionWallet](https://chrome.google.com/webstore/detail/celoextensionwallet/kkilomkmpmkbdnfelcpgckmpcaemjcdh?hl=en) from the Google Chrome Store.
-2. Create a wallet.
-3. Go to [https://celo.org/developers/faucet](https://celo.org/developers/faucet) and get tokens for the alfajores testnet.
-4. Switch to the alfajores testnet in the CeloExtensionWallet.
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Test
-1. Create a product.
-2. Create a second account in your extension wallet and send them cUSD tokens.
-3. Buy product with secondary account.
-4. Check if balance of first account increased.
+```markdown
+Syntax highlighted code block
 
+# Header 1
+## Header 2
+### Header 3
 
-## Project Setup
+- Bulleted
+- List
 
-### Install
-```
-npm install
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
 ```
 
-### Start
-```
-npm run dev
-```
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Build
-```
-npm run build
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rupeshjha00/rupeshjha00.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
